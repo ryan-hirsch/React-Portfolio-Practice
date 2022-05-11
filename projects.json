@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Project One",
+        "live": "www.theonion.com",
+        "git": "https://github.com/ryan-hirsch/Trivia_Game",
+        "image": "https://imgur.com/YgRBFaf"
+    },
+    {
+        "name": "Project Two",
+        "live": "www.reddit.com",
+        "git": "https://github.com/pepermz/Project2-Earth-FoodWebsite",
+        "image": "https://imgur.com/YgRBFaf"
+    }
+]
+
+
